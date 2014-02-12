@@ -2,4 +2,4 @@ Animated GIFs
 =============
 
 Credits:
-- @orta
+- @orta (All copyright belongs to him)
