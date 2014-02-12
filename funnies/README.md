@@ -1,0 +1,5 @@
+Animated GIFs
+=============
+
+Credits:
+- @orta
